@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/voice-app/static/css/main.46fbe824.chunk.css",
-    "main.js": "/voice-app/static/js/main.0466a606.chunk.js",
-    "main.js.map": "/voice-app/static/js/main.0466a606.chunk.js.map",
-    "runtime-main.js": "/voice-app/static/js/runtime-main.eb9571f4.js",
-    "runtime-main.js.map": "/voice-app/static/js/runtime-main.eb9571f4.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/voice-app/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.431f3bb0.chunk.js": "/voice-app/static/js/2.431f3bb0.chunk.js",
-    "static/js/2.431f3bb0.chunk.js.map": "/voice-app/static/js/2.431f3bb0.chunk.js.map",
-    "index.html": "/voice-app/index.html",
-    "precache-manifest.21034ea9529e822814d5aa13cbb03fcd.js": "/voice-app/precache-manifest.21034ea9529e822814d5aa13cbb03fcd.js",
-    "service-worker.js": "/voice-app/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/voice-app/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.46fbe824.chunk.css.map": "/voice-app/static/css/main.46fbe824.chunk.css.map",
-    "static/js/2.431f3bb0.chunk.js.LICENSE.txt": "/voice-app/static/js/2.431f3bb0.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/voice-app/static/media/space3.f1050278.jpg"
+    "main.css": "/voice-app-v2/static/css/main.3a0026ed.chunk.css",
+    "main.js": "/voice-app-v2/static/js/main.c1c76fb8.chunk.js",
+    "main.js.map": "/voice-app-v2/static/js/main.c1c76fb8.chunk.js.map",
+    "runtime-main.js": "/voice-app-v2/static/js/runtime-main.972342c5.js",
+    "runtime-main.js.map": "/voice-app-v2/static/js/runtime-main.972342c5.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/voice-app-v2/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b76293bc.chunk.js": "/voice-app-v2/static/js/2.b76293bc.chunk.js",
+    "static/js/2.b76293bc.chunk.js.map": "/voice-app-v2/static/js/2.b76293bc.chunk.js.map",
+    "index.html": "/voice-app-v2/index.html",
+    "precache-manifest.998312fcfac2707a1e769851c043399f.js": "/voice-app-v2/precache-manifest.998312fcfac2707a1e769851c043399f.js",
+    "service-worker.js": "/voice-app-v2/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/voice-app-v2/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.3a0026ed.chunk.css.map": "/voice-app-v2/static/css/main.3a0026ed.chunk.css.map",
+    "static/js/2.b76293bc.chunk.js.LICENSE.txt": "/voice-app-v2/static/js/2.b76293bc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/voice-app-v2/static/media/space3.f1050278.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb9571f4.js",
+    "static/js/runtime-main.972342c5.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.431f3bb0.chunk.js",
-    "static/css/main.46fbe824.chunk.css",
-    "static/js/main.0466a606.chunk.js"
+    "static/js/2.b76293bc.chunk.js",
+    "static/css/main.3a0026ed.chunk.css",
+    "static/js/main.c1c76fb8.chunk.js"
   ]
 }
